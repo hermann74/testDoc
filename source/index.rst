@@ -10,6 +10,7 @@ Welcome to testPgm's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+.. automodule:: main_script
 
 
 Indices and tables
