@@ -1,5 +1,4 @@
-python>=3.7
-sphinx>=2.2.0
+sphinx==2.2.0
 sphinx-astropy>=1.1.1
 sphinx-automodapi>=0.12
 sphinx-gallery>=0.4.0
