@@ -11,6 +11,7 @@ Welcome to testPgm's documentation!
    :caption: Contents:
 
 .. automodule:: main_script
+       :members:
 
 
 Indices and tables
